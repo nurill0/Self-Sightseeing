@@ -2,6 +2,23 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Please allow to use your photo library for select your sightseeing place&apos;s picture</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Please allow to use your media library for select your sightseeing place&apos;s picture</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Please allow to use your camera for take  your sightseeing place&apos;s picture</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Please allow to use your location for know sighseeing place&apos;s coordinates</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Please allow to use your location for know sighseeing place&apos;s coordinates</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Please allow to use your location for know sighseeing place&apos;s coordinates</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Montserrat-Black.ttf</string>
+		<string>Montserrat-Bold.ttf</string>
+	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
